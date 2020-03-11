@@ -1,18 +1,18 @@
 #include <iostream>
 using namespace std;
 
-double gera_vetor(int n)
+double* gera_vetor(int n)
 {
-	double vec [n];
+	double *vec = new double[n];
 	double i;
 	for (int j = 0;j<n;j++)
 	{
 		i = rand();
 		vec[j] = i;
-		cout<<i<<' '<<endl;
+		
 								        
 	}
-	return *vec;
+	return vec;
 }
 
     
@@ -20,7 +20,11 @@ double gera_vetor(int n)
 
 int main()
 {
-	double vec = gera_vetor(1000);
+	int n = 10000;
+	double* vec = gera_vetor(n);
+	for (int x = 0; x< n; x++){
+		cout << vec[x] << endl;
+	}
 	        
 	        
 
