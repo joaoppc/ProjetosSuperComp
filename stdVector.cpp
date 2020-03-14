@@ -41,9 +41,10 @@ void pow3mult(vector<double> &vec) {
 }
 double sum(vector<double> &vec) {
 	double sum = 0;
-	for (auto j = 0; j < vec.size(); j++){
-		sum += vec[j];
-	}
+	for_each(vec.begin(),vec.end(),[&] (auto const &j){
+		sum +=j;
+	});
+	
 	return sum;
 }
     
@@ -57,11 +58,7 @@ int main()
 		cout << vec[x] << endl;
 	}
 	cout<<"-----------------------"<<endl;
-	pow3(vec);
-	for (auto x = 0; x< vec.size();x++){
-		
-		cout << vec[x] << endl;
-	}
+	cout << sum(vec) << endl;
 			    
 			    
 			    
