@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cria_entrada.dir/cria_entrada.cpp.o  -o cria_entrada 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/Funcoes.cpp
+iostream
+-
+math.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CriaVetor.dir/CriaVetor.cpp.o  -o CriaVetor 

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project (projeto0)
+add_executable(CalculoTempo CalculoTempo.cpp)
+add_executable(CriaVetor CriaVetor.cpp)
+add_executable(Funcoes Funcoes.cpp)
+add_executable(stdVector stdVector.cpp)

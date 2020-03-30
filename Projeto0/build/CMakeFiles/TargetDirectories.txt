@@ -1,0 +1,6 @@
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/edit_cache.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/Funcoes.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/rebuild_cache.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/stdVector.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/CalculoTempo.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto0/build/CMakeFiles/CriaVetor.dir

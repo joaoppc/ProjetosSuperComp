@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto1/backtrack.cpp
+iostream
+-
+vector
+-
+tuple
+-
+list
+-
+

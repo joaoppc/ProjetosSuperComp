@@ -1,0 +1,3 @@
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto1/Build/CMakeFiles/rebuild_cache.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto1/Build/CMakeFiles/backtrack.dir
+/home/joaoppc/Documents/SuperComp/ProjetosSuperComp/Projeto1/Build/CMakeFiles/edit_cache.dir
